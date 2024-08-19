@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sonal Induwara</h1>
 <h3 align="center">Aspiring software developer with a strong commitment to delivering innovative and efficient solutions</h3>
 
-- 👨‍💻 Portfolio (https://www.sonalinduwara.me/)
+-[ 👨‍💻 Portfolio ] (https://www.sonalinduwara.me/)
 
 - 📫 How to reach me **sonalinduwara@gmail.com**
 
-- 📄 My Resume (https://www.sonalinduwara.me/Sonal-Induwara-Resume.pdf)
+-[ 📄 My Resume ](https://www.sonalinduwara.me/Sonal-Induwara-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
